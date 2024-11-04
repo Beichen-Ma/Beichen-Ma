@@ -21,7 +21,7 @@ I am Beichen Ma, a graduate student at [Cornell University](https://www.cornell.
 **I will graduate in May 2025 and am actively seeking NG opportunities related to LLM.** 
 
 Find me on: 
-- [LinkedIn](https://www.linkedin.com/in/qiaolin-yu/)
+- [LinkedIn](https://www.linkedin.com/in/beichen-ma/)
 - [Google Scholar](https://scholar.google.com/citations?user=am5fNA4AAAAJ&hl=en)
 - [Email](mailto:bm685@cornell.edu)
 
