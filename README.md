@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiaolin-Yu&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
  -->
-I am Beichen Ma, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a LLM research scientist intern at [Genies](https://genies.com/). My interests primarily focus on machine learning.
+I am Beichen Ma, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a LLM research scientist intern at [Genies](https://genies.com/). My interests primarily focus on machine learning system.
 
 <!-- Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. -->
 **I will graduate in May 2025 and am actively seeking NG opportunities related to LLM.** 
