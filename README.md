@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Beichen Ma, a graduate student at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). Currently, I work as a LLM research scientist intern at [Genies](https://genies.com/). My interests primarily focus on machine learning system.
 
 <!-- Currently, I am actively seeking **2024 summer internship** opportunities in both the United States and China. -->
-**I will graduate in May 2025 and am actively seeking NG opportunities related to LLM.** 
+**I will graduate in May 2025 and am actively seeking NG opportunities related to LLM, MLSys.** 
 
 Find me on: 
 - [LinkedIn](https://www.linkedin.com/in/beichen-ma/)
